@@ -8,7 +8,7 @@
     "start": "parcel --open"
   },
   "keywords": [],
-  "author": "",
+  "author": "gabriellamsa",
   "license": "ISC",
   "devDependencies": {
     "parcel": "^2.12.0"
